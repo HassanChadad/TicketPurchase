@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: log4j-core-2.9.1.jar json-simple-1.1.1.jar lucene-analyzer
+ s-common-7.3.0.jar lucene-codecs-7.3.0.jar lucene-core-7.3.0.jar luce
+ ne-queries-7.3.0.jar lucene-queryparser-7.3.0.jar log4j-api-2.9.1.jar
+Main-Class: EventService.EventsServiceHandler
+
